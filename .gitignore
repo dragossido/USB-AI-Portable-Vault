@@ -1,0 +1,19 @@
+# Private encrypted data
+config/vault.enc.json
+data/conversations/*.enc.json
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
