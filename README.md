@@ -2,9 +2,9 @@
 
 A portable, encrypted AI workspace that runs directly from a USB drive and connects to compatible local or online AI providers.
 
-```markdown
+
 [☕ Buy me a coffee](https://www.buymeacoffee.com/dragossido)
-```
+
 
 The project is designed around a simple idea:
 
