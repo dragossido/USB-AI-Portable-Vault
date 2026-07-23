@@ -2,9 +2,7 @@
 
 A portable, encrypted AI workspace that runs directly from a USB drive and connects to compatible local or online AI providers.
 
-
 [☕ Buy me a coffee](https://www.buymeacoffee.com/dragossido)
-
 
 The project is designed around a simple idea:
 
@@ -470,9 +468,9 @@ This project is being developed independently.
 
 If you find it useful and would like to support continued development, testing, documentation, and future local-AI integration, you may add a support link here:
 
-```markdown
+
 [☕ Buy me a coffee](https://www.buymeacoffee.com/dragossido)
-```
+
 
 Support is optional. Bug reports, testing, documentation improvements, and GitHub contributions are also valuable.
 
